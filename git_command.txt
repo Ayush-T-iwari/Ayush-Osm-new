@@ -1,7 +1,7 @@
 git init 
 git status
-git add file name
-git commit -m "added file"
+git add file name  1
+git commit -m "added file"  2
 git restore file name 
 git clone 
 git push 
