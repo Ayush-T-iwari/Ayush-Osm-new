@@ -1,0 +1,1 @@
+print("Parth gadha hai ")
