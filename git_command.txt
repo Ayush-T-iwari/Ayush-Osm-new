@@ -3,3 +3,7 @@ git status
 git add file name
 git commit -m "added file"
 git restore file name 
+git clone 
+git push 
+git remote -v
+git push origin main 
